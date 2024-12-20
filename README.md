@@ -1,4 +1,4 @@
-## script tôi tự làm :vv
+## script tôi tự làm :vv, sẽ cố gắng cập nhật dần trong tương lai vì đây là tải khoản github mới.
 
 ### anti afk
 ```lua
