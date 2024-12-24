@@ -1,4 +1,4 @@
--- author: HaXer19
+-- author: HaXer19 
 
 local function gcolor() 
     return Color3.fromRGB(math.random(50, 255), math.random(50, 255), math.random(50, 255))
